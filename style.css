@@ -1,5 +1,4 @@
 button {
-  font-size: 30px;
   border: 2px solid #6500e4;
   border-radius: 4px;
   color: #6500e4;
@@ -7,4 +6,5 @@ button {
 
 p{
   margin: 25px 25px;
+  font-size: 30px;
 }
